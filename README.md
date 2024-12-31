@@ -11,7 +11,7 @@ A simple weather app that allows users to search and save cities to view their w
 
 ## Demo
 
-You can view the live demo of this weather app [here](https://github.com/amaanpatel-dev/weather-app).
+You can view the live demo of this weather app [here]([https://github.com/amaanpatel-dev/weather-app](https://amaanpatel-dev.github.io/weather-dashboard/)).
 
 ## Installation
 
